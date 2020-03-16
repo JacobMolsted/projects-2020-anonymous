@@ -1,4 +1,4 @@
-# Inaugural project
+# Inaugural project test
 
 The **results** of the project can be seen from running [inauguralproject.ipynb](inauguralproject.ipynb).
 
