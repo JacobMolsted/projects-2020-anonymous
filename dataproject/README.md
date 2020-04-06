@@ -6,8 +6,8 @@ The **results** of the project can be seen from running [dataproject.ipynb](data
 
 This **loades two datasets**:
 
-1. INDKP101.xlsx downloaded from statistikbanekn.dk/INDKP101
-1. RAS200.xlsx downloaded from statistikbanekn.dk/RAS200
+1. AUL08.xlsx downloaded from statistikbanken.dk
+1. NAN1.xlsx downloaded from statistikbanken.dk/
 
 **Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
 
