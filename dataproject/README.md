@@ -6,8 +6,8 @@ The **results** of the project can be seen from running [dataproject.ipynb](data
 
 This **loades two datasets**:
 
-1. AUL08.xlsx downloaded from statistikbanken.dk
-1. NAN1.xlsx downloaded from statistikbanken.dk/
+1. AUL08.xlsx downloaded from statistikbanken.dk (Named AUL08 in the project)
+1. NAN1.xlsx downloaded from statistikbanken.dk (Named DATA in the project)
 
 **Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
 
